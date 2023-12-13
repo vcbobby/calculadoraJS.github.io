@@ -1,0 +1,55 @@
+:root {
+    color: #ea00ff;
+    background-color: #ffffff;
+}
+
+a {
+    color: #ea00ff;
+}
+
+a:hover {
+    color: #fbff00;
+    filter: drop-shadow(0 0 2px #ea00ff);
+}
+
+button:hover {
+    border-color: #1b1b1b;
+}
+
+.number {
+    color: #fbff00;
+    background-color: #f476ff;
+}
+
+.number:hover{
+    color: #000000;
+    background-color: #cfcfcf;
+}
+
+.operators {
+    background-color: #1b1b1b;
+    color: #fbff00;
+}
+
+.operators:hover{
+    background-color: #000000;
+    color: #cfcfcf;
+}
+
+.C {
+    background-color: #fbff00;
+    color: #000000;
+}
+
+.C:hover {
+    background-color: #aeb100;
+}
+
+.display {
+    color: #f476ff;
+    background-color: #1b1b1b;
+}
+
+.calculadora-final {
+  background-color: #ea00ff;
+}
